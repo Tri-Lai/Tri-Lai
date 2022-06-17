@@ -1,8 +1,7 @@
-# Ayo everyone, it's Trislai 👋
-#### Student at SSET
-My name is Lai Nghiep Tri and I'm pursuing to be a senior software developer.
+# Alo alo, it's Trislai 👋
+My name is Lai Nghiep Tri, student at SSET of RMIT University Vietnam and I'm pursuing to be a senior software developer.
 
-Skills: Research/ Java/ C++/ QA
+⚡Skills: Research/ Java/ C++/ QA
 
 ![Profile views](https://gpvc.arturio.dev/Tri-Lai)  
 
