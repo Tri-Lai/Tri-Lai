@@ -21,5 +21,9 @@ Skills: Research/ Java/ C++/ QA
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Tri-Lai&theme=dracula&show_icons=true)  
 
 ## How to reach me
-![GitHub account](https://img.shields.io/badge/-Github-181717?logo=github&logoColor=white&style=plastic)
+![GitHub account](https://img.shields.io/badge/-Github-181717?logo=github&logoColor=white&style=plastic)(https://github.com/Tri-La)
+![LinkedIn account](https://img.shields.io/badge/-Github-181717?logo=github&logoColor=white&style=plastic)
+![Facebook account](https://img.shields.io/badge/-Github-181717?logo=github&logoColor=white&style=plastic)
+![Twitter account](https://img.shields.io/badge/-Github-181717?logo=github&logoColor=white&style=plastic)
+
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Tri-Lai)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/trilai/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/trislaiii)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/trislaiii)  
