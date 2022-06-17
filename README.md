@@ -11,15 +11,21 @@ Skills: Research/ Java/ C++/ QA
 
 ## My stats
 <p align="center">
- <img align="center" src="https://github-profile-trophy.vercel.app/?username=Tri-Lai&show_icons=true&count_private=true&hide=stars&include_all_commits=false&theme=aura"/>
+ <img align="center" src="https://github-profile-trophy.vercel.app/?username=Tri-Lai&show_icons=true&count_private=true&hide=stars&include_all_commits=false&theme=dracula"/>
 <br/><br/><br/>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tri-Lai&show_icons=true&count_private=true&hide=stars&include_all_commits=false&theme=dracula"/>
+<br/><br/><br/>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Tri-Lai&show_icons=true"/>
+<br/><br/><br/>
+<img align="center" src="https://activity-graph.herokuapp.com/graph?username=Tri-Lai"/>
+<br/><br/><br/>
+<img align="center" src=""/>
+ 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Tri-Lai&show_icons=true&theme=dracula&show_icons=true)  
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Tri-Lai&show_icons=true)  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Tri-Lai&theme=dracula&show_icons=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Tri-Lai)  
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Tri-Lai)  
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Tri-Lai&theme=dracula&show_icons=true)  
 </p>
 
 
