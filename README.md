@@ -7,11 +7,19 @@ Skills: Research/ Java/ C++/ QA
 ![Profile views](https://gpvc.arturio.dev/Tri-Lai)  
 
 ## Tech Stack
-<img src="https://img.shields.io/badge/-SpringBoot-6DB33F?logo=SpringBoot&logoColor=white&style=flat-square" alt="Spring Boot logo"/>
+<img src="https://img.shields.io/badge/-SpringBoot-6DB33F?logo=SpringBoot&logoColor=white&style=plastic" alt="Spring Boot logo"/>
+<img src="https://img.shields.io/badge/-A8B9CC?logo=C&logoColor=white&style=plastic" alt="C logo"/>
+<img src="https://img.shields.io/badge/-00599C?logo=Cplusplus&logoColor=white&style=plastic" alt="C++ logo"/>
+<img src="https://img.shields.io/badge/Java-FF8C00?logo=java&logoColor=white&style=plastic" alt="Java logo"/>
+<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=plastic" alt="Python logo"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=plastic" alt="HTML logo"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=plastic" alt="CSS logo"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white&style=plastic" alt="JavaScript logo"/>
+<img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=plastic" alt="Git logo"/>
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white&style=plastic" alt="vscode logo"/>
+<img src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white&style=plastic" alt="ubuntu logo"/>
 
 ## My stats
-<a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> 
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=Tri-Lai)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tri-Lai)](https://github.com/anuraghazra/github-readme-stats)
