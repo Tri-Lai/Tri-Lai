@@ -20,7 +20,7 @@ Skills: Research/ Java/ C++/ QA
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Tri-Lai&theme=dracula&show_icons=true)  
 
-## How to reach me
+## Reach me at
 [<img align="left" alt="github-acc" src="https://img.shields.io/badge/-Github-181717?logo=github&logoColor=white&style=plastic" />](https://github.com/Tri-Lai)
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=plastic" />](https://www.linkedin.com/in/trilai)
 [<img align="left" alt="facebook-acc" src="https://img.shields.io/badge/-Facebook-1877F2?logo=facebook&logoColor=white&style=plastic" />](https://www.facebook.com/trislaiii)
