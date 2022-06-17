@@ -12,8 +12,8 @@ Skills: Research/ Java/ C++/ QA
 ## My stats
 <p align="center">
  <img align="center" src="https://github-profile-trophy.vercel.app/?username=Tri-Lai&show_icons=true&count_private=true&hide=stars&include_all_commits=false&theme=aura"/>
-<br/>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tri-Lai"/>
+<br/><br/><br/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tri-Lai&show_icons=true&count_private=true&hide=stars&include_all_commits=false&theme=dracula"/>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Tri-Lai&show_icons=true)  
 
