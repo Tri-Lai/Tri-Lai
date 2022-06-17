@@ -11,6 +11,9 @@ Skills: Research/ Java/ C++/ QA
 
 ## My stats
 <p align="center">
+
+</p>
+
   [![trophy](https://github-profile-trophy.vercel.app/?username=Tri-Lai)](https://github.com/ryo-ma/github-profile-trophy)
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tri-Lai)](https://github.com/anuraghazra/github-readme-stats)
@@ -20,17 +23,7 @@ Skills: Research/ Java/ C++/ QA
   ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Tri-Lai)  
 
   ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Tri-Lai)  
-</p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Tri-Lai)](https://github.com/ryo-ma/github-profile-trophy)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tri-Lai)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Tri-Lai&show_icons=true)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Tri-Lai)  
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Tri-Lai)  
 
 ## How to reach me
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Tri-Lai)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/trilai/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/trislaiii)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/trislaiii)  
