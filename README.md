@@ -1,7 +1,9 @@
 ![Tri's banner](https://github.com/Tri-Lai/Tri-Lai/blob/main/Blue%20Yellow%20Futuristic%20Virtual%20Technology%20Blog%20Banner.png)
 ## Brief bio
 My name is Lai Nghiep Tri, student at SSET of RMIT University Vietnam and I'm pursuing to be a senior software developer.
+
 🧡Interest: iOS development/ software architecture 
+
 ⚡Skills: Research/ Java/ C++/ QA
 
 ![Profile views](https://gpvc.arturio.dev/Tri-Lai)  
