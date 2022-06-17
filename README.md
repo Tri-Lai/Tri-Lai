@@ -1,6 +1,8 @@
 # Alo alo, it's Trislai 👋
 My name is Lai Nghiep Tri, student at SSET of RMIT University Vietnam and I'm pursuing to be a senior software developer.
 
+![Tri's banner](./Blue Yellow Futuristic Virtual Technology Blog Banner.png)
+
 ⚡Skills: Research/ Java/ C++/ QA
 
 ![Profile views](https://gpvc.arturio.dev/Tri-Lai)  
