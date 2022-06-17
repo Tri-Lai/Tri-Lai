@@ -11,15 +11,16 @@ Skills: Research/ Java/ C++/ QA
 
 ## My stats
 <p align="center">
-  [![trophy](https://github-profile-trophy.vercel.app/?username=Tri-Lai)](https://github.com/Tri-Lai/github-profile-trophy)
+ <img align="center" src="https://github-profile-trophy.vercel.app/?username=Tri-Lai&show_icons=true&count_private=true&hide=stars&include_all_commits=false&theme=aura"/>
+[![trophy](https://github-profile-trophy.vercel.app/?username=Tri-Lai)](https://github.com/ryo-ma/github-profile-trophy)
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tri-Lai)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tri-Lai)](https://github.com/anuraghazra/github-readme-stats)
 
-  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Tri-Lai&show_icons=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Tri-Lai&show_icons=true)  
 
-  ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Tri-Lai)  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Tri-Lai)  
 
-  ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Tri-Lai)  
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Tri-Lai)  
 </p>
 
 
