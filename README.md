@@ -11,10 +11,7 @@ Skills: Research/ Java/ C++/ QA
 
 ## My stats
 <p align="center">
-
-</p>
-
-  [![trophy](https://github-profile-trophy.vercel.app/?username=Tri-Lai)](https://github.com/ryo-ma/github-profile-trophy)
+  [![trophy](https://github-profile-trophy.vercel.app/?username=Tri-Lai)](https://github.com/Tri-Lai/github-profile-trophy)
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tri-Lai)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -23,6 +20,8 @@ Skills: Research/ Java/ C++/ QA
   ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Tri-Lai)  
 
   ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Tri-Lai)  
+</p>
+
 
 
 ## How to reach me
