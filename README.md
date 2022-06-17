@@ -22,6 +22,6 @@ Skills: Research/ Java/ C++/ QA
 
 ## How to reach me
 [<img align="left" alt="github-acc" src="https://img.shields.io/badge/-Github-181717?logo=github&logoColor=white&style=plastic" />](https://github.com/Tri-Lai)
-[<img align="left" alt="linked-in" src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=plastic" />]((https://www.linkedin.com/in/trilai)
-[<img align="left" alt="facebook-acc" src="https://img.shields.io/badge/-Facebook-1877F2?logo=facebook&logoColor=white&style=plastic" />]((https://www.facebook.com/trislaiii)
+[<img align="left" alt="linked-in" src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=plastic" />](https://www.linkedin.com/in/trilai)
+[<img align="left" alt="facebook-acc" src="https://img.shields.io/badge/-Facebook-1877F2?logo=facebook&logoColor=white&style=plastic" />](https://www.facebook.com/trislaiii)
 [<img align="left" alt="twitter-acc" src="https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=plastic" />](https://twitter.com/trislaiii)
