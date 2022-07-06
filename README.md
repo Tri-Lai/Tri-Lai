@@ -2,7 +2,7 @@
 ## Brief bio
 My name is Lai Nghiep Tri, student at SSET of RMIT University Vietnam and I'm pursuing to be a senior software developer.
 
-🧡Interest: iOS development/ software architecture 
+🧡Interest: iOS development/ software architecture/ Data Engineer
 
 ⚡Skills: Research/ Java/ C++/ QA
 
