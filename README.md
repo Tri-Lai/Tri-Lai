@@ -23,6 +23,5 @@ My name is Lai Nghiep Tri, a student at SSET of RMIT University Vietnam and I'm 
 ## Reach me at
 [<img align="left" alt="github-acc" src="https://img.shields.io/badge/-Github-181717?logo=github&logoColor=white&style=plastic" />](https://github.com/Tri-Lai)
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=plastic" />](https://www.linkedin.com/in/trilai)
-[<img align="left" alt="facebook-acc" src="https://img.shields.io/badge/-Facebook-1877F2?logo=facebook&logoColor=white&style=plastic" />](https://www.facebook.com/trislaiii)
 [<img align="left" alt="twitter-acc" src="https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=plastic" />](https://twitter.com/trislaiii)
-[<img align="left" alt="twitter-acc" src="https://img.shields.io/badge/-Outlook-0078D4?logo=microsoftoutlook&logoColor=white&style=plastic" />](mailto:s3799602@rmit.edu.vn)
+[<img align="left" alt="mail" src="https://img.shields.io/badge/-Outlook-0078D4?logo=microsoftoutlook&logoColor=white&style=plastic" />](mailto:s3799602@rmit.edu.vn)
