@@ -5,15 +5,14 @@ I'm an SSET student at RMIT University Vietnam right now, and I'm passionate in 
 
 #### Connect with me:
 
-[![website](./images/linkedin_icon.svg)](https://www.linkedin.com/in/trilai)
+[![website](./images/linkedin_icon.png)](https://www.linkedin.com/in/trilai)
 &nbsp;&nbsp;
 
-[![website](./images/facebook_icon.svg)](https://www.facebook.com/trislaiii)
+[![website](./images/facebook_icon.png)](https://www.facebook.com/trislaiii)
 &nbsp;&nbsp;
 
-[![website](./images/email_icon.svg)](mailto:s3799602@rmit.edu.vn.com)
+[![website](./images/email_icon.png)](mailto:s3799602@rmit.edu.vn.com)
 &nbsp;&nbsp;
-
 
 ---
 
