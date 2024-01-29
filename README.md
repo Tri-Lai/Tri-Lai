@@ -1,27 +1,68 @@
-![Tri's banner](https://github.com/Tri-Lai/Tri-Lai/blob/main/Blue%20Yellow%20Futuristic%20Virtual%20Technology%20Blog%20Banner.png)
-## Brief bio
-My name is Lai Nghiep Tri, a student at SSET of RMIT University Vietnam and I'm pursuing to be a Cloud Data Engineer.
+# Hi all, I'm Tri Lai - aka Irisial Young 👋
 
-⚡Skills: Research, Python, Java, AWS
+## 💁🏻‍♂️ About me
+I'm an SSET student at RMIT University Vietnam right now, and I'm passionate in discovering more about the cloud computing industry in order to become a cloud developer.
 
-![Profile views](https://gpvc.arturio.dev/Tri-Lai)  
+#### Connect with me:
 
-## Tech Stack
-<img src="https://img.shields.io/badge/-SpringBoot-6DB33F?logo=SpringBoot&logoColor=white&style=plastic" alt="Spring Boot logo"/> <img src="https://img.shields.io/badge/-A8B9CC?logo=C&logoColor=white&style=plastic" alt="C logo"/> <img src="https://img.shields.io/badge/-00599C?logo=Cplusplus&logoColor=white&style=plastic" alt="C++ logo"/> <img src="https://img.shields.io/badge/Java-FF8C00?logo=java&logoColor=white&style=plastic" alt="Java logo"/> <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=plastic" alt="Python logo"/> <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=plastic" alt="HTML logo"/> <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=plastic" alt="CSS logo"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white&style=plastic" alt="JavaScript logo"/> <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=plastic" alt="Git logo"/> <img src="https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white&style=plastic" alt="vscode logo"/> <img src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white&style=plastic" alt="ubuntu logo"/>
+---
 
-## My stats
-![Commit stats](https://github-profile-trophy.vercel.app/?username=Tri-Lai&show_icons=true&count_private=true&hide=stars&include_all_commits=false&theme=dracula)
+### Tech stack
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tri-Lai&show_icons=true&count_private=true&hide=stars&include_all_commits=false&theme=dracula)
+<img align="left" alt="Java" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Tri-Lai&show_icons=true&theme=dracula&show_icons=true)  
+<img align="left" alt="Swift" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" />
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Tri-Lai&theme=dracula&show_icons=true)  
+<img align="left" alt="Kotlin" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Tri-Lai&theme=dracula&show_icons=true)  
+<img align="left" alt="C" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
 
-## Reach me at
-[<img align="left" alt="github-acc" src="https://img.shields.io/badge/-Github-181717?logo=github&logoColor=white&style=plastic" />](https://github.com/Tri-Lai)
-[<img align="left" alt="linked-in" src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=plastic" />](https://www.linkedin.com/in/trilai)
-[<img align="left" alt="twitter-acc" src="https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=plastic" />](https://twitter.com/trislaiii)
-[<img align="left" alt="mail" src="https://img.shields.io/badge/-Outlook-0078D4?logo=microsoftoutlook&logoColor=white&style=plastic" />](mailto:s3799602@rmit.edu.vn)
+<img align="left" alt="C++" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
+
+<img align="left" alt="HTML5" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+
+<img align="left" alt="CSS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+
+<img align="left" alt="NodeJS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+          
+<img align="left" alt="JavaScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+
+<img align="left" alt="Typescript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+
+<img align="left" alt="ReactJS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+
+<img align="left" alt="Python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+
+<img align="left" alt="SQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" /> <br />
+           
+<img align="left" alt="Jupyter" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
+
+<img align="left" alt="Numpy" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
+
+<img align="left" alt="Pandas" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" />
+
+<img align="left" alt="Anaconda" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" />
+
+<img align="left" alt="Vim" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" />
+
+<img align="left" alt="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+
+<img align="left" alt="Docker" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+        
+<img align="left" alt="AWS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" />
+          
+<img align="left" alt="Android Studio" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" />
+
+<img align="left" alt="Xcode" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" />
+
+<img align="left" alt="VScode" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /> <br />
+
+---
+
+## Stats
+
+[![My GitHub stats](https://github-readme-stats-tri-lai.vercel.app/api?username=Tri-Lai&show_icons=true&hide_border=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+![Top Langs](https://github-readme-stats-tri-lai.vercel.app/api/top-langs/?username=Tri-Lai&hide_progress=true)
+
+          
